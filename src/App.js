@@ -2,7 +2,7 @@
 // import Autocompl from "./Autocompl";
 // import CustomCard from "./CustomCard";
 // import CusCard from "./CusCard";
-// import Dial from "./Dial";
+import Dial from "./Dial";
 // import Mode from "./Mode";
 // import Linking from "./Linking";
 
@@ -11,7 +11,7 @@
 // import Snackba from "./Snackba";
 // import Progres from "./Progres";
 // import Ratin from "./Ratin";
-import ImageLis from "./ImageLis";
+// import ImageLis from "./ImageLis";
 
 function App() {
   return (
@@ -19,7 +19,7 @@ function App() {
       {/* <Menutab /> */}
       {/* <CustomCard /> */}
       {/* <CusCard /> */}
-      {/* <Dial /> */}
+      <Dial />
       {/* <Mode /> */}
       {/* <Linking /> */}
       {/* <Autocompl /> */}
@@ -28,7 +28,7 @@ function App() {
       {/* <Snackba /> */}
       {/* <Progres /> */}
       {/* <Ratin /> */}
-      <ImageLis />
+      {/* <ImageLis /> */}
     </div>
   );
 }
