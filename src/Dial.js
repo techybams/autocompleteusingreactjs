@@ -10,6 +10,7 @@ import {
 
 const Dial = () => {
   const [open, setOpen] = useState(false);
+  const [opened, setOpened] = useState(false);
   return (
     <div>
       <Button onClick={() => setOpen(true)}>Open Dialog</Button>
