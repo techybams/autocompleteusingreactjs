@@ -17,6 +17,9 @@ const Menutab = () => {
         Open Menu
       </Button>
       <Button onClick={handleClick}>Open Menu Again</Button>
+      <Button variant="contained" onClick={handleClick}>
+        Open Menu
+      </Button>
       <Menu anchorEl={anchorElm} open={open} onClose={handleClose}>
         <MenuItem onClick={handleClose}>Profile</MenuItem>
         <MenuItem onClick={handleClose}>Balance</MenuItem>

@@ -1,8 +1,8 @@
-// import Menutab from "./Menutab";
+import Menutab from "./Menutab";
 // import Autocompl from "./Autocompl";
 // import CustomCard from "./CustomCard";
 // import CusCard from "./CusCard";
-import Dial from "./Dial";
+// import Dial from "./Dial";
 // import Mode from "./Mode";
 // import Linking from "./Linking";
 
@@ -16,10 +16,10 @@ import Dial from "./Dial";
 function App() {
   return (
     <div>
-      {/* <Menutab /> */}
+      <Menutab />
       {/* <CustomCard /> */}
       {/* <CusCard /> */}
-      <Dial />
+      {/* <Dial /> */}
       {/* <Mode /> */}
       {/* <Linking /> */}
       {/* <Autocompl /> */}
