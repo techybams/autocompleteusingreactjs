@@ -23,6 +23,7 @@ function App() {
       <Mode />
       <Mode />
       <Mode />
+      <Mode />
 
       {/* <Linking /> */}
       {/* <Autocompl /> */}
