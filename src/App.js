@@ -21,6 +21,7 @@ function App() {
       {/* <CusCard /> */}
       {/* <Dial /> */}
       <Mode />
+      <Mode />
       {/* <Linking /> */}
       {/* <Autocompl /> */}
       {/* <Draw /> */}
