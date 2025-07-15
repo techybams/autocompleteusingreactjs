@@ -22,6 +22,8 @@ function App() {
       {/* <Dial /> */}
       <Mode />
       <Mode />
+      <Mode />
+
       {/* <Linking /> */}
       {/* <Autocompl /> */}
       {/* <Draw /> */}
