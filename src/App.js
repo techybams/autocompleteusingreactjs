@@ -24,6 +24,7 @@ function App() {
 
       {/* <Linking /> */}
       <Autocompl />
+      <Autocompl />
       {/* <Draw /> */}
       {/* <Aler /> */}
       {/* <Snackba /> */}
