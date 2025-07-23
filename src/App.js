@@ -1,9 +1,9 @@
 // import Menutab from "./Menutab";
-// import Autocompl from "./Autocompl";
+import Autocompl from "./Autocompl";
 // import CustomCard from "./CustomCard";
 // import CusCard from "./CusCard";
 // import Dial from "./Dial";
-import Mode from "./Mode";
+// import Mode from "./Mode";
 // import Linking from "./Linking";
 
 // import Draw from "./Draw";
@@ -20,10 +20,10 @@ function App() {
       {/* <CustomCard /> */}
       {/* <CusCard /> */}
       {/* <Dial /> */}
-      <Mode />
+      {/* <Mode /> */}
 
       {/* <Linking /> */}
-      {/* <Autocompl /> */}
+      <Autocompl />
       {/* <Draw /> */}
       {/* <Aler /> */}
       {/* <Snackba /> */}
